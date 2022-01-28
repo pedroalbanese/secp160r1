@@ -1,1 +1,1 @@
-module github.com/fd/secp160r1
+module github.com/pedroalbanese/secp160r1
